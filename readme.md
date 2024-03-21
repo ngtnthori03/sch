@@ -15,4 +15,4 @@ II. sch-data -- data center
 
 ## web-based application
 
-I. csh-notif -- notification center
+I. sch-notif -- notification center
